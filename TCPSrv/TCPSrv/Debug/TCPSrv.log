@@ -1,0 +1,7 @@
+﻿  TCPSrv.cpp
+e:\我的毕设\编程训练\tcpsrv\tcpsrv\tcpsrv.cpp(139): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\我的毕设\编程训练\tcpsrv\tcpsrv\tcpsrv.cpp(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  TCPSrv.vcxproj -> E:\我的毕设\编程训练\TCPSrv\Debug\TCPSrv.exe
+  TCPSrv.vcxproj -> E:\我的毕设\编程训练\TCPSrv\Debug\TCPSrv.pdb (Full PDB)

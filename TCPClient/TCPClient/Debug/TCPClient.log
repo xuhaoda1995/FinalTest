@@ -1,0 +1,12 @@
+﻿  TCPClient.cpp
+e:\我的毕设\编程训练\tcpclient\tcpclient\tcpclient.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+e:\我的毕设\编程训练\tcpclient\tcpclient\tcpclient.cpp(84): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+e:\我的毕设\编程训练\tcpclient\tcpclient\tcpclient.cpp(98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\我的毕设\编程训练\tcpclient\tcpclient\tcpclient.cpp(102): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\我的毕设\编程训练\tcpclient\tcpclient\tcpclient.cpp(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  TCPClient.vcxproj -> E:\我的毕设\编程训练\TCPClient\Debug\TCPClient.exe
+  TCPClient.vcxproj -> E:\我的毕设\编程训练\TCPClient\Debug\TCPClient.pdb (Full PDB)
